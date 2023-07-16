@@ -15,7 +15,7 @@ I know almost nothing on how to code so any help will be much appreciated. I cho
 
  - A unique loading animation, most likely based on the ORV novel logo. 
 
- ![ORV logo for loading animation](https://github.com/StudentShake/orv-wiki/src/assets/logo.jpg?raw=true)
+ ![ORV logo for loading animation](https://github.com/StudentShake/orv-wiki/blob/master/src/assets/logo.jpg?raw=true)
 
 ### Homepage
 (*I'm speaking in desktop screen terms but I will also fix this for mobile and other stuff*)
@@ -27,10 +27,9 @@ I know almost nothing on how to code so any help will be much appreciated. I cho
 
 Concept Art:
     Desktop:
-    ![HomePage Concept "Art" (desktop)](https://github.com/StudentShake/orv-wiki/src/assets/homePage_conceptArt_desktopVer.jpg?raw=true)
-
+    ![HomePage Concept "Art" (desktop)](https://github.com/StudentShake/orv-wiki/blob/master/src/assets/homePage_conceptArt_desktopVer.jpg?raw=true)
     Mobile:
-    ![HomePage Concept "Art" (mobile)](https://github.com/StudentShake/orv-wiki/src/assets/homePage_conceptArt_mobileVer.jpg?raw=true)
+    ![HomePage Concept "Art" (mobile)](https://github.com/StudentShake/orv-wiki/blob/master/src/assets/homePage_conceptArt_mobileVer.jpg?raw=true)
 
 - Scrolling down will show 
     - previews of the reading view, 
@@ -101,3 +100,8 @@ Besides the difference in actual content, the reading mode will work the same.
 tbc
 
 (Still a work in progress so none of this is truly official, and can always be changed later if need be)
+
+## Currently Working On
+
+- README "Roadmap"
+- Homepage
