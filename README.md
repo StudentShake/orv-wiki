@@ -86,6 +86,9 @@ Besides the difference in actual content, the reading mode will work the same.
 - Literary Analysis mode:
     - ...
 
+-  Music
+    - I suck with music but once the money starts coming in istg im building a genshin style symphony for this novel like imaging reading a huge fight war scene with battle sounds and a whole ass opera like damn its gonna be amazing. 
+
 ### Search Page
 
 ### Guide/Wiki Page
