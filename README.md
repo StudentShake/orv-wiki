@@ -27,9 +27,9 @@ I know almost nothing on how to code so any help will be much appreciated. I cho
 
 Concept Art:
     Desktop:
-    ![HomePage Concept "Art" (desktop)](https://github.com/StudentShake/orv-wiki/blob/master/src/assets/homePage_conceptArt_desktopVer.jpg?raw=true)
+    ![HomePage Concept "Art" (desktop)](https://raw.githubusercontent.com/StudentShake/orv-wiki/master/src/assets/homePage_conceptArt_desktopVer.png)
     Mobile:
-    ![HomePage Concept "Art" (mobile)](https://github.com/StudentShake/orv-wiki/blob/master/src/assets/homePage_conceptArt_mobileVer.jpg?raw=true)
+    ![HomePage Concept "Art" (mobile)](https://raw.githubusercontent.com/StudentShake/orv-wiki/master/src/assets/homePage_conceptArt_mobileVer.png)
 
 - Scrolling down will show 
     - previews of the reading view, 
