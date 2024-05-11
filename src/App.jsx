@@ -10,11 +10,13 @@ import Account from './pages/7. Account/Account'
 import Loading from './pages/loading/Loading'
 import NotFound from './pages/notFound/NotFound'
 import Navbar from './components/Navbar'
+import Logo from '../assets/logo.png'
 
 const App = () => {
   return (
     <BrowserRouter>
       Welcome to ORV (might seem like a downgrade but now I have more control so yeah)
+      <img src={Logo} alt="Nav Logo" className="center"/>
       {/* <Navbar/>
       <Home/>
       <Read/>
@@ -23,8 +25,8 @@ const App = () => {
       <Edit/>
       <Community/>
       <Account/>
-      <Loading/> */}
-      <NotFound/>
+      <Loading/> */
+      /* <NotFound/> */}
     </BrowserRouter>
   )
 }
