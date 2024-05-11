@@ -21,7 +21,6 @@ import NotFound from './pages/notFound/NotFound'
 const App = () => {
   return (
     <Router>
-      <Main/>
       <Navbar />
             <Routes>
 
