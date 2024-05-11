@@ -34,6 +34,7 @@ const App = () => {
 
                 
             </Routes>
+      <Main/>
       {/* 
       <Home/>
       <Read/>
