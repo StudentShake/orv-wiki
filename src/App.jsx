@@ -24,6 +24,8 @@ const App = () => {
       <Navbar />
             <Routes>
 
+                <Route path="/main" element={<Main />} />
+
                 <Route path="/home" element={<Home />} />
                 <Route path="/read" element={<Read />} />
                 <Route path="/search" element={<Search />} />
@@ -34,7 +36,6 @@ const App = () => {
 
                 
             </Routes>
-      <Main/>
       {/* 
       <Home/>
       <Read/>
