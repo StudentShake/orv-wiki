@@ -1,4 +1,12 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { 
+  BrowserRouter as Router, 
+  Routes, 
+  Route 
+} from 'react-router-dom'
+
+import Main from './components/Main'
+
+import Navbar from "./components/Navbar";
 
 import Home from './pages/1. Home/Home'
 import Read from './pages/2. Read/Read'
@@ -9,13 +17,24 @@ import Community from './pages/6. Community/Community'
 import Account from './pages/7. Account/Account'
 import Loading from './pages/loading/Loading'
 import NotFound from './pages/notFound/NotFound'
-import Main from './components/Main'
-
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <Router>
       <Main/>
+      <Navbar />
+            <Routes>
+
+                <Route path="/home" element={<Home />} />
+                <Route path="/read" element={<Read />} />
+                <Route path="/search" element={<Search />} />
+                <Route path="/guide" element={<Guide />} />
+                <Route path="/edit" element={<Edit />} />
+                <Route path="/community" element={<Community />} />
+                <Route path="/account" element={<Account />} />
+
+                
+            </Routes>
       {/* 
       <Home/>
       <Read/>
@@ -26,7 +45,7 @@ const App = () => {
       <Account/>
       <Loading/> */
       /* <NotFound/> */}
-    </BrowserRouter>
+    </Router>
   )
 }
 
