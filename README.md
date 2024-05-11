@@ -15,7 +15,7 @@ I know almost nothing on how to code so any help will be much appreciated. I cho
 
  - A unique loading animation, most likely based on the ORV novel logo. 
 
- ![ORV logo for loading animation](https://github.com/StudentShake/orv-wiki/blob/master/src/assets/logo.jpg?raw=true)
+ ![ORV logo for loading animation](https://raw.githubusercontent.com/StudentShake/orv-wiki/master/src/assets/logo.png)
 
 ### Homepage
 (*I'm speaking in desktop screen terms but I will also fix this for mobile and other stuff*)
