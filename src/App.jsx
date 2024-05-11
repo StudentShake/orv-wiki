@@ -9,13 +9,13 @@ import Community from './pages/6. Community/Community'
 import Account from './pages/7. Account/Account'
 import Loading from './pages/loading/Loading'
 import NotFound from './pages/notFound/NotFound'
-import Logo from './components/Logo'
+import Main from './components/Main'
 
 
 const App = () => {
   return (
     <BrowserRouter>
-      <Logo/>
+      <Main/>
       {/* 
       <Home/>
       <Read/>

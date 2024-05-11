@@ -1,9 +1,9 @@
 import {Link, NavLink} from 'react-router-dom'
 import LogoImg from '../assets/logo.png'
 import {links} from '../data'
-import './logo.css'
+import './main.css'
 
-const Logo = () => {
+const Main = () => {
   return (
     <nav>
         <div className = "heading_container">
@@ -18,4 +18,4 @@ const Logo = () => {
     )
 }
 
-export default Logo
+export default Main
