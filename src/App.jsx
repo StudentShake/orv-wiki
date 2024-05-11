@@ -15,7 +15,7 @@ const App = () => {
   return (
     <BrowserRouter>
       Welcome to ORV (might seem like a downgrade but now I have more control so yeah)
-      <Navbar/>
+      {/* <Navbar/>
       <Home/>
       <Read/>
       <Search/>
@@ -23,7 +23,7 @@ const App = () => {
       <Edit/>
       <Community/>
       <Account/>
-      <Loading/>
+      <Loading/> */}
       <NotFound/>
     </BrowserRouter>
   )
